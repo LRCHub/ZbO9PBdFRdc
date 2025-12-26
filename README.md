@@ -1,0 +1,64 @@
+# RESCENE – Deja Vu
+
+> **歌詞登録ステータス：プレーン歌詞のみ**
+
+```
+햇살 젖은 바람, 잠이 든 I-I
+물든 창문 틈새, 스며든 Light-ight
+나의 코끝을 스친 Scent (그 향기에)
+피어난 작은 보조개
+(Oh, it′s so bright)
+책상 위에 그린 낙서
+너와 나눈 그 비밀도
+바람결에 실려 다시
+되돌아간 기분 After all
+처음 스친 그때, 이 향길 기억해 줘
+닿은 그 순간 펼쳐질 Déjà vu
+같은 꿈을 꾸듯 (Whoa),
+눈을 감아보면 (Yeah)
+익숙한 Déjà vu, oh, oh, oh, ah
+I-I-I-I-I, yeah,
+it's like a-a-a déjà vu
+You-ou-ou and I,
+다시 닿을 수 없다 해도
+같은 꿈을 꾸듯 (Whoa),
+눈을 감아보면 (Yeah)
+익숙한 Déjà vu, oh, oh, oh, ah
+빽빽한 책장 사이, 손때 묻은 한 칸
+바랜 책 모퉁일 넘기면 튀어나온
+자그만 이야길 들어 (귀 기울여 봐)
+조금은 서툴렀던 날
+빛이 바랜 쪽지 속에
+나를 어루만진 네 Voice
+바람결에 실려 다시
+되돌아간 기분 After all
+처음 스친 그때, 이 향길 기억해 줘
+닿은 그 순간 펼쳐질 Déjà vu
+같은 꿈을 꾸듯 (Whoa),
+눈을 감아보면 (Yeah)
+익숙한 Déjà vu, oh, oh, oh, ah
+I-I-I-I-I, yeah,
+it′s like a-a-a déjà vu
+You-ou-ou and I,
+다시 닿을 수 없다 해도
+같은 꿈을 꾸듯 (Whoa),
+눈을 감아보면 (Yeah)
+익숙한 Déjà vu, oh, oh, oh, ah
+(I've been thinking about you)
+그리워질 너와 나
+(I've been dreaming about you)
+이 순간을 잊지 마
+언젠가 세상 끝에서
+마주할 날, 오랜 Déjà vu
+같은 꿈을 꾸듯 (Whoa),
+눈을 감아보면 (Yeah)
+익숙한 Déjà vu,
+oh, oh, oh, ah, yeah
+I-I-I-I-I, yeah,
+it′s like a-a-a déjà vu (ooh)
+You-ou-ou and I,
+다시 닿을 수 없다 해도 (Ooh)
+같은 꿈을 꾸듯 (Whoa),
+눈을 감아보면 (Yeah)
+익숙한 Déjà vu, oh, oh, oh, ah
+```
