@@ -1,0 +1,152 @@
+{
+  "version": 1,
+  "base_track": "Deja Vu",
+  "base_artist": "RESCENE",
+  "createdAt": "2025-12-26T13:27:38.761413Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Deja Vu",
+      "artist": "Eminem",
+      "has_synced": true,
+      "path": "select/01_Deja_Vu_Eminem.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Déjà vu",
+      "artist": "Karpe",
+      "has_synced": false,
+      "path": "select/02_Déjà_vu_Karpe.txt"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Déjà Vu",
+      "artist": "Karpe Diem",
+      "has_synced": true,
+      "path": "select/03_Déjà_Vu_Karpe_Diem.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Deja Vu",
+      "artist": "Yeah Yeah Yeahs",
+      "has_synced": true,
+      "path": "select/04_Deja_Vu_Yeah_Yeah_Yeahs.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Deja Vu (Club Mix)",
+      "artist": "Moullinex",
+      "has_synced": false,
+      "path": "select/05_Deja_Vu_(Club_Mix)_Moullinex.txt"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Deja Vu",
+      "artist": "Iron Maiden",
+      "has_synced": true,
+      "path": "select/06_Deja_Vu_Iron_Maiden.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Déjà Vu (feat. Alicai Harley) - Live from NW10",
+      "artist": "Gorillaz feat. Alicai Harley",
+      "has_synced": true,
+      "path": "select/07_Déjà_Vu_(feat._Alicai_Harley)_-_Live_from_NW10_Gorillaz_feat._Alicai_Harley.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Déjà Vu (Live from NW10) (feat. Alicai Harley)",
+      "artist": "Gorillaz",
+      "has_synced": true,
+      "path": "select/08_Déjà_Vu_(Live_from_NW10)_(feat._Alicai_Harley)_Gorillaz.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Reverse Déjà vu",
+      "artist": "HTRK",
+      "has_synced": false,
+      "path": "select/09_Reverse_Déjà_vu_HTRK.txt"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Déjà Vu",
+      "artist": "Toro y Moi",
+      "has_synced": false,
+      "path": "select/10_Déjà_Vu_Toro_y_Moi.txt"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Déjà Vu",
+      "artist": "Cibo Matto",
+      "has_synced": false,
+      "path": "select/11_Déjà_Vu_Cibo_Matto.txt"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Déjà Vu",
+      "artist": "Crosby, Stills, Nash & Young",
+      "has_synced": true,
+      "path": "select/12_Déjà_Vu_Crosby,_Stills,_Nash_&_Young.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Scene Two: II. Strange Déjà Vu (Live)",
+      "artist": "Dream Theater",
+      "has_synced": false,
+      "path": "select/13_Scene_Two__II._Strange_Déjà_Vu_(Live)_Dream_Theater.txt"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Deja Vu & The Sins of Science",
+      "artist": "Tears for Fears",
+      "has_synced": false,
+      "path": "select/14_Deja_Vu_&_The_Sins_of_Science_Tears_for_Fears.txt"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "Deja-Vu And The Sins Of Science",
+      "artist": "Tears for Fears",
+      "has_synced": false,
+      "path": "select/15_Deja-Vu_And_The_Sins_Of_Science_Tears_for_Fears.txt"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "Déjà Vu",
+      "artist": "Bee Gees",
+      "has_synced": true,
+      "path": "select/16_Déjà_Vu_Bee_Gees.lrc"
+    },
+    {
+      "id": "lrclib_17",
+      "source": "lrclib",
+      "title": "Take Me Back (Déjà Vu)",
+      "artist": "Van Halen",
+      "has_synced": true,
+      "path": "select/17_Take_Me_Back_(Déjà_Vu)_Van_Halen.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Deja Vu",
+      "artist": "RESCENE",
+      "has_synced": false,
+      "path": "select/pl_01_Deja_Vu_RESCENE.txt"
+    }
+  ]
+}
